@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Continental Card Assistant/ContinentalPageViewController.swift"
+            timestampString = "525671026.139588"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Continental Card Assistant/ContinentalPageViewController.swift"
+            timestampString = "525668216.608912"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "ContinentalPageViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Continental_Card_Assistant.ContinentalPageViewController.__deallocating_deinit"
+                  moduleName = "Continental Card Assistant"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/djara96/Desktop/Continental%20Card%20Assistant/Continental%20Card%20Assistant/ContinentalPageViewController.swift"
+                  timestampString = "525683450.573171"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Continental_Card_Assistant.ContinentalPageViewController.init (transitionStyle : __C.UIPageViewControllerTransitionStyle, navigationOrientation : __C.UIPageViewControllerNavigationOrientation, options : Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;) -&gt; Continental_Card_Assistant.ContinentalPageViewController"
+                  moduleName = "Continental Card Assistant"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/djara96/Desktop/Continental%20Card%20Assistant/Continental%20Card%20Assistant/ContinentalPageViewController.swift"
+                  timestampString = "525683450.576936"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Continental_Card_Assistant.ContinentalPageViewController.__allocating_init (transitionStyle : __C.UIPageViewControllerTransitionStyle, navigationOrientation : __C.UIPageViewControllerNavigationOrientation, options : Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;) -&gt; Continental_Card_Assistant.ContinentalPageViewController"
+                  moduleName = "Continental Card Assistant"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/djara96/Desktop/Continental%20Card%20Assistant/Continental%20Card%20Assistant/ContinentalPageViewController.swift"
+                  timestampString = "525683450.582638"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "10">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Continental_Card_Assistant.ContinentalPageViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Continental_Card_Assistant.ContinentalPageViewController&gt;"
+                  moduleName = "Continental Card Assistant"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/djara96/Desktop/Continental%20Card%20Assistant/Continental%20Card%20Assistant/ContinentalPageViewController.swift"
+                  timestampString = "525683450.586575"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Continental_Card_Assistant.ContinentalPageViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Continental_Card_Assistant.ContinentalPageViewController&gt;"
+                  moduleName = "Continental Card Assistant"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/djara96/Desktop/Continental%20Card%20Assistant/Continental%20Card%20Assistant/ContinentalPageViewController.swift"
+                  timestampString = "525683450.589433"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
